@@ -1,0 +1,54 @@
+﻿.image {
+  width: auto;
+  height: 30vh;
+  margin: auto;
+  display: block;
+}
+.imageB {
+  width: auto;
+  height: 25vh;
+  margin: auto;
+  display: block;
+}
+}
+.login-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.header {
+  flex: 4;
+  padding-top: 20px;
+}
+
+.title{
+  font-size:50px;
+  text-align:center;
+  color:black;
+}
+
+.bodyTxt{
+  font-size:x-large;
+  text-align:center;
+  color:black;
+
+}
+
+.button {
+  background-color: #0b5288;
+  border-color: black;
+  font-size: 14px;
+  color:#f0f0f0;
+}
+
+.pane{
+  background-color: #fff;
+}
+
+.item{
+  background-color: #fff;
+}
+.bar{
+  background-color: #ebebeb
+}
